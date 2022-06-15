@@ -29,10 +29,10 @@ Este projeto tem o objetivo de atingir este problema, através do uso de algorit
  Para auxiliar no entendimento de como os algoritmos **Random Forest** e **Decision Tree** performaram diante do dataset utilizado, deixei uma breve explicação no *notebook* de como funcionam as métricas de avaliação dos modelos de classificação.<br><br>
  Uma forma muito simples de visualizar a performance do modelo é a **matriz de confusão**, organizada da seguinte forma:<br><br>
 <center><img src= "https://miro.medium.com/max/1400/1*j0TSVygS7ZPfK-lZkojNcQ.png"></center><br><br>
-A <b>matriz de confusão</b> consegue nos mostrar as classificações corretas e incorretas de cada classe e nos indica se o modelo está favorecendo uma classe em detrimento da outra ou não.<br><br>
-Além da matriz de confusão, temos as seguintes métricas de avaliação do modelo:<br><br>
+A <b>matriz de confusão</b> consegue nos mostrar as classificações corretas e incorretas de cada classe e nos indica se o modelo está favorecendo uma classe em detrimento da outra ou não.<br>
+Além da matriz de confusão, temos as seguintes métricas de avaliação do modelo:<br>
 
-##### Acurácia <br><br> 
+## Acurácia <br><br> 
 Nos diz o quanto o modelo classificou corretamente, independente da classe dos exemplos. É definida pela seguinte fórmula:<br>
 <center><img src = "https://miro.medium.com/max/1178/1*tNTpugu1beoC3f6ivswnsA.png"></center><br>
 Onde: TP = Verdadeiro Positivo;<br>
@@ -40,15 +40,15 @@ TN = Verdadeiro Negativo;<br>
 FP = Falso Positivo e<br>
 FN = Falso Negativo. <br><br> 
 
-##### Precisão <br><br> 
+## Precisão <br><br> 
 É a razão entre o número de exemplos positivos classificados corretamente e o total de exemplos classificados como positivos, incluindo os falsos positivos, e busca responder qual a proporção de classificações positivas foi realmente correta. É definida pela seguinte fórmula:<br>
 <center><img src = "https://miro.medium.com/max/476/1*pJrHo_sp-pnLFl6Ww3imUw.png"></center><br><br>
 
-##### Recall <br><br> 
+## Recall <br><br> 
 Pode ser definida como a taxa de verdadeiro positivo e busca responder o quão bem o modelo prevê a classe de positivos. É definida pela seguinte fórmula:<br>
 <center><img src = "https://miro.medium.com/max/396/1*zgmkLfNNRtFwCHp8m46AKA.png"></center><br><br>
 
-##### F1 Score <br><br> 
+## F1 Score <br><br> 
 O F1 Score é o balanço entre a **precisão** e o **recall** e é definida pela seguinte fórmula:<br>
 <center><img src = "https://miro.medium.com/max/520/1*sBVtY3BJoJbOs47ZZx46tA.png"></center><br><br>
 
