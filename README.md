@@ -11,7 +11,7 @@
 
 Todos os dias, bilhões de transações de cartão de crédito são feitas ao redor do mundo. No Brasil, cada vez mais as pessoas realizam compras por aplicativos, lojas *online* e afins com seus cartões de crédito.<br><br>
 Em um cenário como este, não é difícil imaginar que pessoas mal-intencionadas não busquem meios para fraudar cartões de crédito e realizar compras no nome - e com o dinheiro - de outras pessoas.<br><br>
-Visando evitar que clientes sejam cobrados por compras que não fizeram, é de **muita importância** que bancos e empresas de cartões sejam capazes de reconhecer quando determinada transação for fruto de fraude.<br<br>
+Visando evitar que clientes sejam cobrados por compras que não fizeram, é de **muita importância** que bancos e empresas de cartões sejam capazes de reconhecer quando determinada transação for fruto de fraude.<br><br>
 Este projeto tem o objetivo de atingir este problema, através do uso de algoritmos de **machine learning** para treinar um modelo preditivo que seja capaz de **aprender** e **detectar** quando uma transação for fraudulenta.
 
 # Desenvolvimento
