@@ -71,7 +71,7 @@ Todas as métricas alcançaram resultados excelentes, o que indica que nosso mod
 -----
 
 # Kaggle
-Para acessar este projeto em Inglês no Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/99-98-f1-score-credit-card-fraud-detection">clique aqui</a>.
+Para acessar este projeto em Inglês no Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/99-98-f1-score-credit-card-fraud-detection">clique aqui</a>.<br>
 To see this project in English on Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/99-98-f1-score-credit-card-fraud-detection">click here</a>.
 
 # Referências
