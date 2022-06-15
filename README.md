@@ -73,6 +73,5 @@ Todas as métricas alcançaram resultados excelentes, o que indica que nosso mod
 <a href="https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509">Entendendo o que é Matriz de Confusão com Python</a><br>
 <a href="https://medium.com/kunumi/m%C3%A9tricas-de-avalia%C3%A7%C3%A3o-em-machine-learning-classifica%C3%A7%C3%A3o-49340dcdb198">Métricas de Avaliação em Machine Learning: Classificação</a><br>
 
------
 # Author
 **Luís Fernando Torres**
