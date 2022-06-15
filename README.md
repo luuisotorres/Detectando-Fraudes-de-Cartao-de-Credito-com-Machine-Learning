@@ -54,8 +54,9 @@ O F1 Score é o balanço entre a **precisão** e o **recall** e é definida pela
 
 # Conclusão
 Após utilizarmos o SMOTE para aplicarmos o **oversampling** dos dados, percebemos, através da **matriz de confusão**, que o algoritmo já **não** favorece mais transações genuínas em detrimento das transações fraudulentas, obtendo, como resultado:<br><br>
-- 85.132 verdadeiros positivos.<br>
-- 17 falsos positivos.<br>
+
+- 85.129 verdadeiros positivos.<br>
+- 20 falsos positivos.<br>
 - 1 falso negativo.<br>
 - 85.439 verdadeiros negativos.<br><br>
 
@@ -68,6 +69,10 @@ Obtivemos:
 Todas as métricas alcançaram resultados excelentes, o que indica que nosso modelo **aprendeu** e se tornou **capaz de identificar transações fraudulentas** de cartão de crédito com altas taxas de acerto.
 
 -----
+
+# Kaggle
+Para acessar este projeto em Inglês no Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/99-98-f1-score-credit-card-fraud-detection">clique aqui</a>.
+To see this project in English on Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/99-98-f1-score-credit-card-fraud-detection">click here</a>.
 
 # Referências
 <a href="https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509">Entendendo o que é Matriz de Confusão com Python</a><br><br>
