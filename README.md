@@ -56,8 +56,8 @@ O F1 Score é o balanço entre a **precisão** e o **recall** e é definida pela
 Após utilizarmos o SMOTE para aplicarmos o **oversampling** dos dados, percebemos, através da **matriz de confusão**, que o algoritmo já **não** favorece mais transações genuínas em detrimento das transações fraudulentas, obtendo, como resultado:<br><br>
 
 - 85.129 verdadeiros positivos.<br>
-- 20 falsos positivos.<br>
-- 1 falso negativo.<br>
+- 20 falsos negativos.<br>
+- 1 falso positivo.<br>
 - 85.439 verdadeiros negativos.<br><br>
 
 Obtivemos:
