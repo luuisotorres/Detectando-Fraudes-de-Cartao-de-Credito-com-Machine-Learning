@@ -71,11 +71,9 @@ Todas as métricas alcançaram resultados excelentes, o que indica que nosso mod
 -----
 
 # Kaggle
-Para acessar este projeto em Inglês no Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/99-98-f1-score-credit-card-fraud-detection">clique aqui</a>.<br>
-To see this project in English on Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/99-98-f1-score-credit-card-fraud-detection">click here</a>.
+Para acessar este projeto em Inglês no Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/91-87-recall-with-ada-boost-cc-fraud-detection">clique aqui</a>.<br>
+To see this project in English on Kaggle, <a href = "https://www.kaggle.com/code/lusfernandotorres/91-87-recall-with-ada-boost-cc-fraud-detection">click here</a>.
 
-# LinkedIn
-Publiquei em meu LinkedIn um artigo descrevendo o processo de criação deste projeto e os conceitos utilizados. Para ler, basta <a href = "https://www.linkedin.com/feed/update/urn:li:ugcPost:6943615261702807553?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6943615261702807553%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">clicar aqui</a>.
 
 # Referências
 <a href="https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509">Entendendo o que é Matriz de Confusão com Python</a><br><br>
